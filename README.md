@@ -1,3 +1,3 @@
-- Repositório de alguns dos códigos de exemplo do curso de Java (Maratona Java)[https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=NdKkIRALwqkrLY-s]
+- Repositório de alguns dos códigos de exemplo do curso de Java [Maratona Java](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=NdKkIRALwqkrLY-s)
 - Projeto criado com IntelliJ Community e Java JDK 17
 - Códigos estão contidos no diretório src/ e separados por tópicos
