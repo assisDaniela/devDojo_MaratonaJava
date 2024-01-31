@@ -1,0 +1,3 @@
+Escrevendo no arquivo com FileWriter
+Continua na próxima linhaEscrevendo no arquivo com FileWriter usando append
+Continua na próxima linha
